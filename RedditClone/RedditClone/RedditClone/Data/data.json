@@ -1,0 +1,45 @@
+[
+   {
+      "title":"Első poszt",
+      "author":"Teszt Elek",
+      "description":"Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás Teszt leírás",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
+      "video":"https://www.youtube.com/watch?v=ByH9LuSILxU",
+      "comments":[
+         {
+            "author":"Teszt Elek1",
+            "content":"Cicás videó"
+         },
+         {
+            "author":"Teszt Elek2",
+            "content":"Cicás videó2"
+         },
+         {
+            "author":"Teszt Elek3",
+            "content":"Cicás videó3"
+         },
+         {
+            "author":"Teszt Elek4",
+            "content":"Cicás videó4"
+         }
+      ]
+   },
+   {
+      "title":"Második poszt",
+      "author":"Péter",
+      "image":"https://images.theconversation.com/files/443350/original/file-20220131-15-1ndq1m6.jpg",
+      "comments":[
+         {
+            "author":"Teszt Elek1",
+            "content":"Cicás kép"
+         }
+      ]
+   },
+   {
+      "title":"Harmadik poszt",
+      "author":"Anna",
+      "description":"kutyás kép videóból",
+      "image":"https://img.youtube.com/vi/wtH-hdOF1uA/hqdefault.jpg",
+      "video":"https://www.youtube.com/watch?v=wtH-hdOF1uA"
+   }
+]
